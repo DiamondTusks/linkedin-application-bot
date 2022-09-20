@@ -6,9 +6,9 @@ from selenium.common.exceptions import NoSuchElementException
 import time
 
 URL = "https://www.linkedin.com/jobs/search/?currentJobId=3230860528&distance=25&f_AL=true&geoId=104769905&keywords=python%20developer&location=Sydney%2C%20New%20South%20Wales%2C%20Australia&refresh=true&sortBy=R"
-USERNAME = "diamondtusks@gmail.com"
-PASSWORD = "nLXv)G0M*fH3"
-MOBILE = "0406579199"
+USERNAME = ""
+PASSWORD = ""
+MOBILE = ""
 
 chrome_driver_path = "/Users/me/Documents/development/chromedriver"
 service = Service(chrome_driver_path)
